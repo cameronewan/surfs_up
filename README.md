@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Purpose
-The purpose of this analysis was to determine if it is worth-while opening a surf shop on the island of Oahu.
+The purpose of this analysis was to determine if it is worth-while opening a surf shop on the island of Oahu based on weather data. Local legend W. Avy is counting on us. 
 
 ## Results
 The three key aspects that we are going to look at to demonstrate the differences between June and Decemeber are Count, Standard deviation, and min/max temp.
