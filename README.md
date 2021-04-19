@@ -9,6 +9,9 @@ The three key aspects that we are going to look at to demonstrate the difference
 - The standard devation is interesting to look at because it is quite a bit larger in Demeber than in June (3.74- 3.25) what we can take away from this is that there is far more variation in the temperature during December. As can be seen above the weather is still plenty nice to be out and about. 
 - Finally it should be noted that we have a higher count in June than we do in December (1700 vs 1517, for a difference of 7.4%).
 
+<img width="158" alt="Screen Shot 2021-04-18 at 10 17 28 PM" src="https://user-images.githubusercontent.com/75695931/115172748-e8204e00-a093-11eb-9034-43c87d9316ef.png">
+<img width="175" alt="Screen Shot 2021-04-18 at 10 17 33 PM" src="https://user-images.githubusercontent.com/75695931/115172745-e5255d80-a093-11eb-8b2e-60dbf16e8f36.png">
+
 ## Summary 
 Based on the analysis that we have done, it can be seen that we have a yearly tempurature at or above 70 degrees Fahrenheit with a mean difference between Dec and June of less than 4 degrees. Our data suggets that there should not be any problem with opening a location on the island of Oahu. The weather is warm enouhg to surf year round. The ice cream sales wont suffer either as the both the winter and summer months have similar max temps. 
 
